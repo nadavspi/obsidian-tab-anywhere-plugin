@@ -1,6 +1,6 @@
 {
   "name": "obsidian-tab-anywhere-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Configures the tab key to indent the entire line in edit mode from anywhere on the line",
   "main": "main.js",
   "scripts": {
