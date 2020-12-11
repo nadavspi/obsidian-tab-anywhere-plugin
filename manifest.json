@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-tab-anywhere-plugin",
+	"name": "Tab Anywhere",
+	"version": "1.0.0",
+	"minAppVersion": "0.9.20",
+	"description": "By default, pressing tab in edit mode will indent the current line only if the cursor is in the beginning of the line. This plugin simply configures the tab key to indent the current line regardless of where in the line focus is set.",
+	"author": "Nadav Spiegelman",
+	"authorUrl": "https://nadav.is",
+	"isDesktopOnly": false
+}
